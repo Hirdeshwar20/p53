@@ -1,0 +1,16 @@
+1. Which one of the following is an Imperative Language? 1. HTML 2. CSS 3. Java Script 
+Answer:java script
+2. Which one of the following is a Declarative Language? 1. HTML 2. CSS 3. Java Script
+answer: HTML and CSS
+3. Name two uses of a DIV tag? 
+Answer:to make division of content
+it work as a container
+4. What is the difference between relative positioning and absolute positioning in HTML?
+Answer:Relative - the element is positioned relative to its normal position.
+ Absolute - the element is positioned absolutely to its first positioned parent.
+5. What is the use of opacity in CSS?
+Answer:to make  element transparent
+6. Which is the programming language used in the React Native Framework?
+ Answer:java script
+7. Which online editor are we using for creating our apps in React Native Framework? 
+Answer:snack of expo
